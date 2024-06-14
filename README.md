@@ -1,16 +1,17 @@
-## Hi there 👋
+##WElcome to my perfil
 
 <!--
-**Synshiietsu/Synshiietsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** ✨My name is Synshiietsu✨** 
 
-Here are some ideas to get you started:
+these r somethings about me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 i'm study in Alura 
+- 🌱 i'm developing in the JavaScript
+- 👯 I use this app to organize and share my porjects 
+
+- 💬 talk with me!
+- 📫 1095723728sp@aluno.educacao.sp.gov.br
+- 😄 mariana ramos 
+
+- ⚡ bye bye, see u
 -->
