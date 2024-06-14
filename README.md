@@ -1,7 +1,7 @@
-##WElcome to my perfil
+##WElcome to my perfil##
 
 <!--
-** ✨My name is Synshiietsu✨** 
+**✨My name is Synshiietsu✨** 
 
 these r somethings about me 
 
