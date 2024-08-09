@@ -1,4 +1,3 @@
-##WElcome to my perfil##
 
 <!--
 **✨My name is Synshiietsu✨** 
@@ -11,7 +10,7 @@ these r somethings about me
 
 - 💬 talk with me!
 - 📫 1095723728sp@aluno.educacao.sp.gov.br
-- 😄 mariana ramos 
+- 😄 Mariana ramos 
 
 - ⚡ bye bye, see u
 -->
